@@ -68,7 +68,7 @@ In your program directory, you are going to clone this repository to get a copy 
 You will need a Github account to submit your programs. You will also use your Github account any time you need help with your code. If you do not already have one, you can go to [Github](https://github.com) and sign up.
 
 Once you have signed up for an account, fill out and submit the following google form:
-[https://goo.gl/forms/TeleAPwdN9znIJWH2](https://goo.gl/forms/TeleAPwdN9znIJWH2)
+[https://goo.gl/forms/6CZQhUcVVwkdy9dl2](https://goo.gl/forms/6CZQhUcVVwkdy9dl2)
 
 :warning: You must log in with your bmail to use the form.
 
@@ -80,7 +80,7 @@ When you click on the link to fork your own repo of Program 0, Github will set t
 
 :warning: :warning: :warning: :warning: :warning: :warning:
 
-Once the fork has completed setting up, look at the Github landing page for your fork of this program. You should see a green button that says "Clone or download". Press it and you should see a URL like https://github.com/binghamtonuniversity-cs342/program-0-fall18-username.git. Copy that text somewhere you can access it, then go back to the terminal.
+Once the fork has completed setting up, look at the Github landing page for your fork of this program. You should see a green button that says "Clone or download". Press it and you should see a URL like https://github.com/binghamtonuniversity-cs580u/program-0-fall18-username.git. Copy that text somewhere you can access it, then go back to the terminal.
 
 Next, be sure you are in your program directory and execute the following command in the terminal:
 

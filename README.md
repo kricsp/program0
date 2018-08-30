@@ -3,13 +3,14 @@
 ### PROGRAM 0 README FILE
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
-- What parts of the program you were not able to complete
+- I was able to complete all the parts of the program.
 
 ## REFERENCES:
-- List any outside resources used
+- Outside resources used:
+i) Guide to Install gcc compileron windows.
 
 ## MISCELLANEOUS COMMENTS:
-- Anything you would like the grader to know
+- My gcc is producing a .exe file.
 
 # Assignment Description
 ## Program 0 - Getting Familiar with Your Environment
